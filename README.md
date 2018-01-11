@@ -1,9 +1,18 @@
 # Luxoft Safe-Renderer
 
+A certified, functional safety code base to show automotive tell-tales. 
+
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-## Install
 
+## Install
+Safe-Renderer uses cmake as its build system. Build and install
+the software this way once you have cmake installed on your system;
+```
+mkdir build && cd build
+cmake ../
+make
+```
 ## Usage
 
 ## Bugs
